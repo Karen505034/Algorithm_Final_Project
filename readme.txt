@@ -1,0 +1,1 @@
+g++ -O3 ./final_no_cout_final.cpp -std=c++11 -o myPolygon
